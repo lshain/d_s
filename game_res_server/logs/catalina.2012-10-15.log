@@ -1,0 +1,90 @@
+十月 15, 2012 9:53:51 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/local/lib:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+十月 15, 2012 9:53:52 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:53:52 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:53:52 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1873 ms
+十月 15, 2012 9:53:52 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+十月 15, 2012 9:53:52 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.32
+十月 15, 2012 9:53:52 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/host-manager
+十月 15, 2012 9:53:52 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/manager
+十月 15, 2012 9:53:53 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/examples
+十月 15, 2012 9:53:53 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/ROOT
+十月 15, 2012 9:53:53 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/docs
+十月 15, 2012 9:53:53 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:53:53 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:53:53 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 794 ms
+十月 15, 2012 9:53:59 下午 org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+十月 15, 2012 9:53:59 下午 org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:53:59 下午 org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:53:59 下午 org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+十月 15, 2012 9:53:59 下午 org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:53:59 下午 org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:53:59 下午 org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:53:59 下午 org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:54:02 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/local/lib:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+十月 15, 2012 9:54:02 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:54:02 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:54:02 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 557 ms
+十月 15, 2012 9:54:02 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+十月 15, 2012 9:54:02 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.32
+十月 15, 2012 9:54:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/host-manager
+十月 15, 2012 9:54:03 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [498] milliseconds.
+十月 15, 2012 9:54:03 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/manager
+十月 15, 2012 9:54:03 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/examples
+十月 15, 2012 9:54:03 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/ROOT
+十月 15, 2012 9:54:03 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/lshain/develop/webserver/apache-tomcat-7.0.32/webapps/docs
+十月 15, 2012 9:54:03 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:54:03 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:54:03 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1104 ms
+十月 15, 2012 9:54:23 下午 org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+十月 15, 2012 9:54:23 下午 org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:54:23 下午 org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:54:23 下午 org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+十月 15, 2012 9:54:23 下午 org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:54:23 下午 org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+十月 15, 2012 9:54:23 下午 org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+十月 15, 2012 9:54:23 下午 org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
